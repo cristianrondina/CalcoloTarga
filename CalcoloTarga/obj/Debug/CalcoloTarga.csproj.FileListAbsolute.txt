@@ -1,0 +1,8 @@
+C:\Users\Cristian\source\repos\CalcoloTarga\CalcoloTarga\bin\Debug\CalcoloTarga.exe.config
+C:\Users\Cristian\source\repos\CalcoloTarga\CalcoloTarga\bin\Debug\CalcoloTarga.exe
+C:\Users\Cristian\source\repos\CalcoloTarga\CalcoloTarga\bin\Debug\CalcoloTarga.pdb
+C:\Users\Cristian\source\repos\CalcoloTarga\CalcoloTarga\obj\Debug\CalcoloTarga.csproj.AssemblyReference.cache
+C:\Users\Cristian\source\repos\CalcoloTarga\CalcoloTarga\obj\Debug\CalcoloTarga.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cristian\source\repos\CalcoloTarga\CalcoloTarga\obj\Debug\CalcoloTarga.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\CalcoloTarga\CalcoloTarga\obj\Debug\CalcoloTarga.exe
+C:\Users\Cristian\source\repos\CalcoloTarga\CalcoloTarga\obj\Debug\CalcoloTarga.pdb
